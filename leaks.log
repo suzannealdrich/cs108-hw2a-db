@@ -1,0 +1,1 @@
+Maximum #bytes allocated at any point via operator new: 604There is 1 memory leak of 4 bytes:  <unknown>, size: 4

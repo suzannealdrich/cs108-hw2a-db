@@ -1,0 +1,1 @@
+// DebugStub.cp#define DEBUG_NEW 2#include <DebugNew.cp>
